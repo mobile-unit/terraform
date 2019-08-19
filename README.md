@@ -1,4 +1,4 @@
-# terraform-course
+# terraform
 
 * These files are part of my Terraform
 
